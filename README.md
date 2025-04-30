@@ -1,5 +1,5 @@
 # Overland-Trip-Organizer
-Item organizer for packing vehicle efficiently for overland trip, based upon knapsack problem
+Item organizer for packing vehicle efficiently for overland trip, based upon knapsack problem, organizes items based on their ranking of importance/usefulness
 
 Originally set up to compare the packing efficiency differences between Greedy & Dynamic implementations of sorting, would like to make visual application with program in the future
 
